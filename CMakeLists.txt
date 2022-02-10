@@ -11,4 +11,4 @@ add_executable(EDI_2022_II_Parcial1
         .idea/vcs.xml
         .idea/workspace.xml
         .gitignore
-        Ejercicio1.c)
+        Tarea4Programa1.c Tarea4Programa3.c)
